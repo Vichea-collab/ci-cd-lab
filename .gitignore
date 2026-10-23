@@ -1,0 +1,9 @@
+node_modules/
+coverage/
+.yarn/*
+!.yarn/releases
+!.yarn/patches
+!.yarn/plugins
+.pnp.*
+.DS_Store
+.env
